@@ -1,3 +1,4 @@
+```
 # Product Showcase Web App
 
 A clean, responsive React application that displays a product showcase page with routing, lazy loading, component-level optimizations, and Tailwind CSS for styling.
@@ -15,10 +16,10 @@ A clean, responsive React application that displays a product showcase page with
 - Responsive Design – Product grid adjusts based on screen size.
 
 ---
-
+```
 ## Folder Structure
 
-
+```
 S_ASS/
 ├──index.html
 ├──package.json
@@ -36,45 +37,48 @@ S_ASS/
 |       ├── Header.jsx 
 |       └── Footer.jsx 
 
-
+```
 
 
 ---
 
-### 1. Clone the repo
-```bash
+## Clone the repo
+```
 git clone https://github.com/your-username/product-showcase.git
+```
+```
 cd product-showcase
-
+```
+```
 npm install
-
+```
+```
 npm run dev
+```
 
 
-Available Routes
 
-
+## Available Routes
+```
 / → Home (Product page)
 
 /login → Login form
 
 /contact → Contact Us page
 
-Technologies
+```
 
 
+## Technologies
+```
 React 18+
-
 React Router DOM
-
 Tailwind CSS
-
 React Lazy/Suspense
-
 JavaScript ES6+
+```
 
-
-Contributing
-
-
+## Contributing
+```
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
+```
